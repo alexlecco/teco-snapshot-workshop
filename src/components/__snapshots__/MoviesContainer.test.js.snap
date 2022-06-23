@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renderizar mensaje cuando no hay peliculas 1`] = `"No se encontraron películas"`;
