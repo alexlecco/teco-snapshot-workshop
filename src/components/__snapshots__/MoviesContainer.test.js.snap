@@ -1,23 +1,25 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`renderizar cuando hay solo 1 película 1`] = `
-<h4>
-  Shrek
-</h4>
+<ol>
+  <li>
+    Shrek
+  </li>
+</ol>
 `;
 
 exports[`renderizar cuando hay varias películas 1`] = `
-Array [
-  <h4>
+<ol>
+  <li>
     Bañeros 1
-  </h4>,
-  <h4>
+  </li>
+  <li>
     Bañeros 2
-  </h4>,
-  <h4>
+  </li>
+  <li>
     Bañeros 3
-  </h4>,
-]
+  </li>
+</ol>
 `;
 
 exports[`renderizar mensaje cuando no hay peliculas 1`] = `"No se encontraron películas"`;
