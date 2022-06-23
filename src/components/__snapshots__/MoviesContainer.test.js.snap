@@ -1,3 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`renderizar cuando hay solo 1 película 1`] = `
+<h4>
+  Shrek
+</h4>
+`;
+
 exports[`renderizar mensaje cuando no hay peliculas 1`] = `"No se encontraron películas"`;
