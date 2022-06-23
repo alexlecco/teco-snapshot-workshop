@@ -6,4 +6,18 @@ exports[`renderizar cuando hay solo 1 película 1`] = `
 </h4>
 `;
 
+exports[`renderizar cuando hay varias películas 1`] = `
+Array [
+  <h4>
+    Bañeros 1
+  </h4>,
+  <h4>
+    Bañeros 2
+  </h4>,
+  <h4>
+    Bañeros 3
+  </h4>,
+]
+`;
+
 exports[`renderizar mensaje cuando no hay peliculas 1`] = `"No se encontraron películas"`;
