@@ -1,4 +1,5 @@
 import React from 'react';
+import './MoviesContainer.css';
 
 const MoviesContainer = ({ movies = [] }) => {
   if (movies.length <= 0) {
